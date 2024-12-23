@@ -2,4 +2,7 @@ name aashik
 thapa
 jahia
 kamal
-    
+aashik
+thapa
+
+Change to developer 1
